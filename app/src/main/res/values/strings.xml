@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Interfaces</string>
+    <string-array name="asignaturas">
+        <item>FTEL</item>
+        <item>ADSW</item>
+        <item>CDPS</item>
+    </string-array>
+
+    <string-array name="nombres">
+        <item>Fundamentos</item>
+        <item>Análisis</item>
+        <item>Centros</item>
+    </string-array>
+
+</resources>
